@@ -1,0 +1,16 @@
+
+body{
+    font-family: sans-serif;
+}
+
+
+ .navbar-toggler{
+    border-color: white !important;
+    color: white !important;
+
+}
+
+.img1{
+    width: 28px;
+    height: 30px;
+}
